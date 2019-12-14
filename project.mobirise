@@ -1,0 +1,1584 @@
+{
+  "settings": {
+    "name": "Promises-politicians",
+    "currentPage": "page2.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.5",
+    "siteFonts": [],
+    "uniqCompNum": 110,
+    "versionPublish": "4.11.5",
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "": "on",
+    "noImageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#28324e",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BIBLIOGRAPHY</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "72px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "18px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">PRESIDENTS&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">GOVERNORS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">BIBLIOGRAPHY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Promises</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-by-brett-sayles-from-pexels-2000x1333.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Politicians make promises,<br>A LOT of promises.<br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2",
+          "_styles": {
+            "H1": {
+              "font-size": "32px"
+            }
+          }
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=xHGQD_kIKu4",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "&nbsp;<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-a"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "LANGUAGE OF PROMISES",
+          "meta": "Politifact: https://www.politifact.com/truth-o-meter/promises/",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-b"
+        },
+        {
+          "text": "<p>Trump, well, probably Obama as well, and all other world leaders have made A LOT of promises. Some of the the promises are kept, many of them are not kept Tracking the status of these promises might be helpful to hold them accountable, however, we believe that the language they used in their promises also matter.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-c"
+        },
+        {
+          "text": "<p>Politicians' promises is a discourse analysis project that aims to explore the languages and topics of promises made by politicians. The current version of the project focuses on U.S. politicians, including U.S. presidents and governors. The website will be updated when the research is expended to other regions and languages in the future.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-e"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dh-atucla-225x225.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "https://dh.ucla.edu/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "DH201 2019 Fall<br>with Professor Miriam Posner&nbsp;<br><br>Yan Zhou is a PhD candidate in East Asian Linguistis at UCLA. Contact her to learn more about her research!<br>",
+          "text2": "<strong>CONTACTS</strong><br>\n<a href=\"mailto:yz007@ucla.edu\">Email: bellazhou8130@gmail.com</a><br><a href=\"https://github.com/yanzhou007\" target=\"_blank\">https://github.com/yanzhou007</a><br><a href=\"https://www.alc.ucla.edu/person/yan-zhou/\" target=\"_blank\">https://www.alc.ucla.edu/person/yan-zhou/</a><br><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://dh.ucla.edu/\" target=\"_blank\">Digital Humanities at UCLA</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-h",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "About",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/black-and-white-bracelet-cooperation-814544-photo-by-savvas-stavrinos-from-pexels.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "About this project",
+          "text": "<br>Politicians' promises is a Digital Humanities project developed in the course DH201 in 2019 at UCLA. It's also a side project of Yan's dissertation Promises and commitment to future actions. Contact Yan or visit her academic website to learn more about the project.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-2m",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#28324e",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BIBLIOGRAPHY</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "72px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "18px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">PRESIDENTS&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">GOVERNORS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">BIBLIOGRAPHY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Promises</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-i"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "BACKGROUND",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-29"
+        },
+        {
+          "text": "<p><b>Speech Act Theory\n</b></p><p>&nbsp;<i>“By saying something, we do something.”</i>\n----- Austin (1962)&nbsp;</p><p>Human societies and communities may be organized in various forms, but one thing we share is the privilege of language and interaction. For a long time, linguistic studies have been focused on the structure of languages (phonetics, phonology, syntax, and semantics), but human languages are more than that. In 1960s, philosopher Austin firstly proposed the idea of Speech Act; John Searle (yes, that Berkley philosophy professor being accused of sexual assault, but we’ll focus on his academic contribution here for today) then continued to develop this theory and firstly analyzed promising as a social act (Searle 1969). Searle defines promising as a subtype of commissive speech acts and is accomplished by a proposition that expresses speaker’s intention to do something in the future that the hearer wishes. A set of conditions and principles must be fulfilled to practice a sincere promise, such as the point or purpose of the act, the relative positions of the speaker and the hearer, the degree of commitment undertaken. \n</p><p>Politicians’ promises might be different (dramatic?) from ordinary people’s but should follow some basic linguistic formula of promises, such as lexical verbs and nouns of commitment (e.g. <i>promise, commit, vow</i>, etc.), modal verbs (e.g. <i>must, should, will</i>, etc.) and semi-modals (e.g. <i>be going to, want to, need to</i>, etc.). This project tries to explore the usage of these linguistic devices in politicians’ promises in important speeches. The current version focuses on two main questions: (1) Whether presidents’ preferences of promise-expressions have changed throughout U.S. history; (2) Do governors across the country have similar preferences of promise expressions?\n</p><p><b>Modals and modality system</b></p><p>Modality is a grammatical category that marks ability, necessity, permissions and obligation in utterances. The categorization of modality varies, this project follows Palmer’s (2001) modal system, which includes two main categories--propositional and event--and four subcategories--epistemic and evidential, as well as deontic and dynamic.  <b>Epistemic modality</b> indicates speakers’ stance on the factual status of the proposition, often marked by modal verbs in English such as <i>maybe, might, must</i>; <b>evidential modality</b> indicates speaker’s evidence for the factual status, marked by expressions such as <i>it is said, </i>and <i>I heard</i>; <b>deontic modality</b> expresses obligations or permissions from external sources, marked by modal verbs such as <i>must&nbsp;</i>and<i> should</i>, and semi-modal <i>have to, ought to</i>; <b>dynamic modality</b> indicates speakers willingness or ability that comes from individuals internal concerns, marked by modal verbs such as <i>will, can, </i>and<i> shall</i>.\n</p><p>Among these modalities, most deontic and dynamic modals are relevant to promises and commitment in interaction, some epistemic modals are also used in promises. In Modern English, it is recognized that there are nine central modal verbs, including<i> can, could, may, might, must, shall, should, will, would</i>. In addition, some words known as semi-modals also function as modals in interaction, such as <i>have to, want to, ought to, need to</i> (Biber et al. 1999, 73,483). \n</p><p>Based on the categorizations by Palmer (2001) and Biber et al. (1999), these common promise-relevant modals are grouped into<b> three types</b>: <b>volition (willingness)</b>, <b>obligation</b>, and <b>ability/possibility</b> (epistemic modals may and might, as well as would are less relevant to promises and are found no occurrence of commitment-expressing cases in the current dataset.) These modals, along with lexical verbs and nouns expressing commitment (such as <i>commitment, assure, promise</i>, etc.), will be searched as promise-expressions in the database. The frequency results will be analyzed and visualized to answer the two main questions in this project.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2a",
+          "_styles": {
+            "DIV": {
+              "color": "#7c706b"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "DATASET",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-n"
+        },
+        {
+          "text": "<p>The current database includes U.S. presidents' inaugural speeches and the State of the States Addresses (governors' new year speeches) in 2019. The governors' speech data are downloaded from the &nbsp;<a href=\"https://fivethirtyeight.com/features/what-americas-governors-are-talking-about/\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">What America’s Governors Are Talking About</a>&nbsp;project (see&nbsp;<a href=\"https://github.com/fivethirtyeight/data/tree/master/state-of-the-state\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">Github)</a>&nbsp;by the group FiveThirtyEight. Inaugural speeches are downloaded from&nbsp;<a href=\"https://www.presidency.ucsb.edu/\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">The American Presidency Project</a>&nbsp;hosted by UCSB.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-o"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "METHODOLOGY",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q"
+        },
+        {
+          "text": "<p>Corpus linguistic programs Lancsbox developed by Lancaster University is used to analyze the normalized frequencies of the promise-expressions and to generate the concordances. Since many modals can express multiple modalities (e.g. <i>must </i>as a epistemic/possibility modal and a deontic/obligation modal), annotations to distinguish these functions are yet to be added.&nbsp;</p><p>\n</p><div>\n</div><div>The concordance lines extracted are then further analyzed with TopicModelingTool. Note this is not the main focus on this project and the topic modeling process is very preliminary. However, the current result might provide us a glimpse of the content of promises made by different presidents and governors.</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-28"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "VISUALIZATION",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1e"
+        },
+        {
+          "text": "<p>Visualization is realized through Fourish. Frequencies of different expressions are visualized with Grif of column charts, stacked area charts, stacked bar charts, map. For governors' promise section, an interactive map of U.S. is created to show main topics of promises made by governors across the country and the frequencies of promise-expressions identified in the current project. The current version of the website only show pictures of visualizations with external links to the Flourish pages.<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1d"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dh-atucla-225x225.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "https://dh.ucla.edu/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "DH201 2019 Fall<br>with Professor Miriam Posner&nbsp;<br><br>Yan Zhou is a PhD candidate in East Asian Linguistis at UCLA. Contact her to learn more about her research!<br>",
+          "text2": "<strong>CONTACTS</strong><br>\n<a href=\"mailto:yz007@ucla.edu\">Email: bellazhou8130@gmail.com</a><br><a href=\"https://github.com/yanzhou007\" target=\"_blank\">https://github.com/yanzhou007</a><br><a href=\"https://www.alc.ucla.edu/person/yan-zhou/\" target=\"_blank\">https://www.alc.ucla.edu/person/yan-zhou/</a><br><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://dh.ucla.edu/\" target=\"_blank\">Digital Humanities at UCLA</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-p",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Bibliography",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#28324e",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BIBLIOGRAPHY</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "72px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "18px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">PRESIDENTS&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">GOVERNORS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">BIBLIOGRAPHY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Promises</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-16"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/black-and-white-black-and-white-monochrome-707676-photo-by-andrey-grushnikov-from-pexels.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "BIBLIOGRAPHY<br>",
+          "text": "<br><br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-size": "32px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header1-17"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "BIBLIOGRAPHY<br><br>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18"
+        },
+        {
+          "text": "<p>Biber, D., Johansson, S., Leech, G., Conrad, S., &amp; Finegan, E. (1999). Longman grammar of spoken and written English. Longman.\n</p><p>Palmer, F. R. (2001). Mood and modality. Cambridge University Press.\n</p><p>Millar, N. (2009). Modal verbs in TIME: Frequency changes 1923–2006. International journal of corpus linguistics, 14(2), 191-220.\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-19"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "LINKS TO OTHER PROJECTS",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2h"
+        },
+        {
+          "text": "<p>Politifact: <a href=\"https://www.politifact.com/truth-o-meter/promises/\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://www.politifact.com/truth-o-meter/promises/</a><br></p><p><a href=\"https://fivethirtyeight.com/features/what-americas-governors-are-talking-about/\" target=\"_blank\">What America’s Governors Are Talking About</a>&nbsp; by FiveThirtyEight. </p><p><a href=\"https://www.presidency.ucsb.edu/\" target=\"_blank\">The American Presidency Project </a>by University of California, Santa Barbra.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2i"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "BACKGROUND PHOTO CREDITS",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1a"
+        },
+        {
+          "text": "<p>Men standing in front of U.S. flag-Photo by Brett Sayles from Pexels</p><p>black-and-white-bracelet-cooperation-814544-Photo by Savvas Stavrinos from Pexels</p><p>Mount Rushmore-https://unsplash.com/photos/PSY_KuMcTJU</p><p>U.S. Map on GOVERNER page &nbsp;background-Photo by John-Mark Smith from Pexels</p><p>black-and-white-black-and-white-monochrome-707676-Photo by Andrey Grushnikov from Pexels</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1b"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dh-atucla-225x225.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "https://dh.ucla.edu/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "DH201 2019 Fall<br>with Professor Miriam Posner&nbsp;<br><br>Yan Zhou is a PhD candidate in East Asian Linguistis at UCLA. Contact her to learn more about her research!<br>",
+          "text2": "<strong>CONTACTS</strong><br>\n<a href=\"mailto:yz007@ucla.edu\">Email: bellazhou8130@gmail.com</a><br><a href=\"https://github.com/yanzhou007\" target=\"_blank\">https://github.com/yanzhou007</a><br><a href=\"https://www.alc.ucla.edu/person/yan-zhou/\" target=\"_blank\">https://www.alc.ucla.edu/person/yan-zhou/</a><br><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://dh.ucla.edu/\" target=\"_blank\">Digital Humanities at UCLA</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1c",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Governors",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#28324e",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BIBLIOGRAPHY</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "72px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "18px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">PRESIDENTS&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">GOVERNORS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">BIBLIOGRAPHY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Promises</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-q"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-by-john-mark-smith-from-pexels-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">State of the States Addresses</span>",
+          "text": "Governors' promises.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "header1-r"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "What governors across the country are promises about?",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-t"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/us-map-states-999x555.png",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<a href=\"https://public.flourish.studio/visualisation/1021136/\" target=\"_blank\" class=\"text-black\">FREQUENCY</a>",
+                "contentAlign": "left",
+                "text": "",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlay": false,
+                "overlayColor": "#ffffff",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/us-map-states-2-999x555.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<br><br><a href=\"https://public.flourish.studio/visualisation/1021136/\" target=\"_blank\">TOPICS</a>",
+                "contentAlign": "right",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-23",
+          "_styles": {
+            "H1": {
+              "font-size": "46px",
+              "text-align": "center",
+              "color": "#28324e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2w"
+        },
+        {
+          "text": "<p>As the map shows, governors of different states take various strategies in expressing their commitment. Governors’ in the darker blue states (New Mexico, Kentucky, Ohio, Oklahoma) have used modals and verbs of promises more frequently than others.</p><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2r"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "What are the governor's promising about?",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2t"
+        },
+        {
+          "text": "<p>Governors of different states also show their different priorities in their new year speech: economy and health are the top two topics that Californian governor has promised about. Same topics are shared by governors in Washington state.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2u"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2x"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Which governors used most promise-relevant expression?",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-v"
+        },
+        {
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-w"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Promises out of obligation or volition?&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1v"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/us-map-states-3-1024x544.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<a href=\"https://public.flourish.studio/visualisation/946372/\" target=\"_blank\" class=\"text-black\">Types of promise expression</a>s",
+                "contentAlign": "left",
+                "text": "<br><br><br><br><br><br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/us-map-states-4-910x591.png",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<a href=\"https://public.flourish.studio/visualisation/1027120/\">Types of promise expressions</a>",
+                "contentAlign": "left",
+                "text": "&nbsp;<br><br><br><br><br><br><br><br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/us-map-states-5-918x586.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<a href=\"https://public.flourish.studio/visualisation/1027181/\" target=\"_blank\">Modal verbs expressing obigations</a>",
+                "contentAlign": "left",
+                "text": "&nbsp;<br><br><br><br><br><br><br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/us-map-states-6-922x580.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<a href=\"https://public.flourish.studio/visualisation/1027315/\" target=\"_blank\">Modal verbs expressing&nbsp;willingness, possibilities and abilities</a>.",
+                "contentAlign": "left",
+                "text": "<br><br><br><br><br><br><br><br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/us-map-states-7-907x572.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<a href=\"https://public.flourish.studio/visualisation/1027328/\" target=\"_blank\">Verb and noun expressions of promises</a>",
+                "contentAlign": "left",
+                "text": "<br><br><br><br><br><br><br><br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-22",
+          "_styles": {
+            "H1": {
+              "font-size": "15px",
+              "color": "#000000",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2y"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2z"
+        },
+        {
+          "text": "<p>The stacked area graph and the grid column graph show that, governors, unlike presidents, prefer modals of volition to modals of obligation in their speeches to express commitment, especially governors of Kentucky, New Mexico, Ohio and Wisconsin. &nbsp;</p><p>Among the modals of volition, <i><b>will </b></i>is most frequently used, especially by governor of New Mexico.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1w"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dh-atucla-225x225.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "https://dh.ucla.edu/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "DH201 2019 Fall<br>with Professor Miriam Posner&nbsp;<br><br>Yan Zhou is a PhD candidate in East Asian Linguistis at UCLA. Contact her to learn more about her research!<br>",
+          "text2": "<strong>CONTACTS</strong><br>\n<a href=\"mailto:yz007@ucla.edu\">Email: bellazhou8130@gmail.com</a><br><a href=\"https://github.com/yanzhou007\" target=\"_blank\">https://github.com/yanzhou007</a><br><a href=\"https://www.alc.ucla.edu/person/yan-zhou/\" target=\"_blank\">https://www.alc.ucla.edu/person/yan-zhou/</a><br><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://dh.ucla.edu/\" target=\"_blank\">Digital Humanities at UCLA</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-x",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2s"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Presidents",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#28324e",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BIBLIOGRAPHY</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__section": {
+              "background": "#28324e"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "72px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "18px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">PRESIDENTS&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">GOVERNORS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">BIBLIOGRAPHY</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Promises</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1g"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image1-1-2000x1333.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Inaugual speeches",
+          "text": "The first inaugural speech was given by George Washington in 1865; the most recent one was by Trump in 2017.&nbsp;<br><br>Did presidents make promises in these inaugural speeches out of obligation or volition? Is there a generally more preferred category of expressions to make promises in inaugural speeches? Are there any changes of the presidnets' preferences over time?&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "header1-1h"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Recap of backgound knowledge<br>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1i"
+        },
+        {
+          "text": "<p><b>Modality system</b></p><p>So, as mentioned in the ABOUT page, lexical items such as<i> promise, vow, assure, commitment,</i> and modals such as <i>must, should, have to, need to, will</i> are relevant to promises in interaction. In addition, these linguistic devices are categorized into four groups:<b> lexical verbs and nouns</b>; <b>modals of willingness</b>; <b>modals of obligation</b>; <b>modals of ability and possibility</b>. \n</p><p>The first two groups both express the speakers’ strong commitment to the future action and tend to be emanated from the speakers’ inner concerns. In contrast, modals of obligation indicate that the speaker promise the future actions because of external sources. Modals of ability and possibility tend to refer to speakers’ concerns of circumstances. </p><p>My interest in this project is to find out: Do politicians make promise out of obligation or volition? Is there a generally more preferred category of expressions used by the politicians? Are there any changes of their preferences over time?&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2d",
+          "_styles": {
+            "DIV": {
+              "color": "#7c706b"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-30"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/us-presidents-1-916x599.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<a href=\"https://public.flourish.studio/visualisation/1027294/\" target=\"_blank\">Categories</a>",
+                "contentAlign": "left",
+                "text": "<a href=\"https://public.flourish.studio/visualisation/1027294/\" target=\"_blank\">Expressions of promises over time</a><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/us-presidents-2-812x603.png",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/us-presidents-3-939x591.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<a href=\"https://public.flourish.studio/visualisation/1027003/\" target=\"_blank\">Obligation</a>",
+                "contentAlign": "left",
+                "text": "<br><br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/us-presidents-4-811x520.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<a href=\"https://public.flourish.studio/visualisation/1027085/\" target=\"_blank\">Verbs and nouns</a>",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbore.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/us-presidents-5-801x522.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<a href=\"https://public.flourish.studio/visualisation/1027054/\" target=\"_blank\">volition</a>",
+                "contentAlign": "left",
+                "text": "<br><br><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-26",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Promise due to obligation or volition?&nbsp;<br>",
+          "meta": "Result of the semantic distribution of modal expressions",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1l"
+        },
+        {
+          "text": "<p>The grid column graph shows that among the four categories, U.S. presidents tend to use modals expressing <b>volition/willingness</b> and <b>obligations </b>more than modals of ability/possibility and promise verbs.&nbsp;</p><p>Comparing the green area (obligation) and the yellow area (volition) in the stacked area chart, we can find that modals of <b>obligation (green area)</b> are used slightly more frequently than modals of volition. This observation aligns with my study in Chinese government officials’ accountability conversations: there might be a tendency that politicians express commitment due to their obligations, instead of volition that involves more agency.\n</p><p>Among the modals of obligations, <i><b>must</b></i> is most frequently used; followed by <b><i>should</i></b>, and <i><b>shall. will</b></i> and <i><b>can</b></i> are the most frequently used modals of volition and ability/possibility, respectively.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2g"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-31"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Historical changes?&nbsp;<br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2e"
+        },
+        {
+          "text": "<p>The use of modals and verbs expressing promises might also corelate with important historical events. The most provident case is President Franklin D. Roosevelt’s inaugural speech in 1945. In this short speech (556 words), the normalized frequency of modals and verbs expressing commitment is as high as 40 per thousand. These expressions enables President Roosevelt to deliver his determination and encouragement to not only American citizens but also citizens of all nations during the Second World War. In contrast, President Franklin D. Roosevelt’s inaugural speech in 1941, however, is among the speeches containing least modals and verbs of commitment. In that speech, the president talked mostly about American spirits, such as independence and freedom.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2v"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "47",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=c9rCFHvpNpU",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Franklin D. Roosevelt\t1/20/1945",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>\"In the days and the years that are to come, we <i><b>shall</b></i> work for a just and honorable peace, a durable peace, as today we work and fight for total victory in war. We <i><b>can</b></i> and we<b><i> will</i></b> achieve such a peace. We <i><b>shall </b></i>strive for perfection. We<i><b> shall </b></i>not achieve it immediately-but we still <i><b>shall </b></i>strive. We may make mistakes—but they <i><b>must</b></i> never be mistakes which result from faintness of 'heart or abandonment of moral principle. \"</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2n"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "<br>Have politicians followed the general trend of Modern English?",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1t"
+        },
+        {
+          "text": "<div>\n</div><div><b>Changes of frequency in the use of Modal verbs in Modern English\n</b></div><div>\n</div><div>An interesting note worth mentioning is that previous studies have identified some historical changes of modal preferences in Modern English. Among them, Leech’s (2003) “democratization tendency” hypothesis is the most famous:\n</div><div>\n</div><div>&nbsp;“…the declining use of must (=obligation) and the rising use of should (=weak obligation) are possibly to be associated with a tendency to suppress or avoid overt claims to power and authority by the speaker or writer. A similar shift from must (and have to and be to?) need to may also be taking place.” (Leech, 2003: 237)\n</div><div>\n</div><div>Leech (2003) found that the frequency in the use of modal auxiliaries shows a clear decline between 1961 and 1991-2. Miller’s (2009) study using TIME magazine (1923-2006) corpus, however, shows an overall increase of the frequencies of auxiliaries. Moreover, the changes of individual modal verbs appear more complicated than previously claimed (Miller 2009, 199): shall, ought and must have a considerable decline in frequency, but can, could and may have a large increase.</div><div>The stacked bar graph shows that in the first half of 19th century, U.S. presidents used less promise verbs and commitment-expressing modals. However, there is no clear tendency that U.S. presidents have used more or less modals after 1849. \n</div><div>\n</div><div>Due to time limit, I have not yet annotated the semantic categories of each modals (most of them can be used to express multiple modalities, e.g. <i>must</i> in obligation sense or epistemic/possibility sense) and the current result should not be taken as a whole picture. A more accurate version of analysis and visualization will be updated after I finish a thorough annotation work.</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1u"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2q"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dh-atucla-225x225.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "https://dh.ucla.edu/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "DH201 2019 Fall<br>with Professor Miriam Posner&nbsp;<br><br>Yan Zhou is a PhD candidate in East Asian Linguistis at UCLA. Contact her to learn more about her research!<br>",
+          "text2": "<strong>CONTACTS</strong><br>\n<a href=\"mailto:yz007@ucla.edu\">Email: bellazhou8130@gmail.com</a><br><a href=\"https://github.com/yanzhou007\" target=\"_blank\">https://github.com/yanzhou007</a><br><a href=\"https://www.alc.ucla.edu/person/yan-zhou/\" target=\"_blank\">https://www.alc.ucla.edu/person/yan-zhou/</a><br><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://dh.ucla.edu/\" target=\"_blank\">Digital Humanities at UCLA</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1n",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
